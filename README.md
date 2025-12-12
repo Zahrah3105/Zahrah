@@ -19,11 +19,12 @@ Continuously expanding my knowledge toward more advanced Python development
 
 
 
-I used OpenAI’s ChatGPT (GPT-5.1) to support me
+I used OpenAI’s ChatGPT (GPT-5.1) to support me for everything
 
 Purpose of AI use:
 - Assisting in debugging by explaining error messages and suggesting fixes.
 - Providing general guidance on Python concepts when needed.
+- Brainstorming and generating initial ideas for the software design.
 
 All code was reviewed, tested, and adapted by me.  
 ChatGPT did not write the full project; I maintained full control over the final implementation.
